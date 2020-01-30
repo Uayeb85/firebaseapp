@@ -3,7 +3,7 @@
 
   // Your web app's Firebase configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyDWAiZ3PTfTTiQhhywT5p1TherssGmlGH4",
+    apiKey: "",
     authDomain: "js-fixter.firebaseapp.com",
     databaseURL: "https://js-fixter.firebaseio.com",
     projectId: "js-fixter",
